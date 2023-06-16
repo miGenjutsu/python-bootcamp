@@ -23,27 +23,16 @@ By the end of this course, you will be fluently programming in Python and you'll
 
 ### 🕹️Built Projects
     Blackjack
-
     Snake Game
-
     Pong Game
-
     Auto Swipe on Tinder
-
     Auto Job Applications on LinkedIn
-
     Automate Birthday Emails/SMS
-
     Fully Fledged Blog Website
-
     Build Your Own Public API
-
     Data Science with Google Trends
-
     Analysing Lego Datasets
-
     Google App Store Analysis
-
     and much much more!
 
 
@@ -84,8 +73,6 @@ By the end of this course, you will be fluently programming in Python and you'll
     Authentication
     Web Design
     Deployment with GitHub Pages, Heroku and GUnicorn
-
-
 
 ----
 
