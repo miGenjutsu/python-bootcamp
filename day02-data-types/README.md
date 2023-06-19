@@ -9,14 +9,15 @@ Day 02 of 100, on this day alot of the basic form of python was explained. After
 In this directory contains all the needed examples of todays learning activity and well placed commenting for later reference.
 
 ## Learning Path
-- basic python:
-  - `print()`: allows print message to screen
-  - `input()`: allow user input
-  - `variables`: a place holder for later use
+- basic python - data types:
+  - `string`: alphabetical
+  - `integer`: numbers
+  - `float`: 
+  - `Boolean`: true/fals
 
 
 ## File Structure
-```
+```sh
 day02-data-types/
 ├── README.md
 ├── day02-project-tip-calculator
