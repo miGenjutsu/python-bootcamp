@@ -4,7 +4,7 @@
 
 ## Description 
 
-Day 02 of 100, on this day alot of the basic form of python was explained. After today using Python I'm now able to do basic python abilities like `print` to screen a message, recieve `user input` from keyboard, and a full understanding of `variables` and the importance of using them.
+Day 02 of 100, on this day alot of the basic form of python was explained. After today using Python I'm now able to understand and use to my advantage basic `Data Types`. 
 
 In this directory contains all the needed examples of todays learning activity and well placed commenting for later reference.
 
@@ -12,8 +12,9 @@ In this directory contains all the needed examples of todays learning activity a
 - basic python - data types:
   - `string`: alphabetical
   - `integer`: numbers
-  - `float`: 
+  - `float`: 3.14159 
   - `Boolean`: true/fals
+  - `Subscript`: subscript operator is defined as square brackets []
 
 
 ## File Structure
