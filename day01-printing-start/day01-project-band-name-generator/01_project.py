@@ -14,7 +14,7 @@ combine_sentence = grew_city + " " + name_pet
 
 print("Your band name: " + combine_sentence)
 
-print("Return: " + grew_city + " " + name_pet ".\n")  ---> wsnt working becuase there was no `+` to concatenate the remaing " ."
+# print("Return: " + grew_city + " " + name_pet ".\n")  # ---> wsnt working becuase there was no `+` to concatenate the remaing " ."
 
 
 
