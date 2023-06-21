@@ -19,6 +19,12 @@ The function is declared like this:
 print('what to print')
 ```
 
+e.g. When you hit run, this is what should happen:
+
+<picture>
+<img alt="Shows giphy of example input/output" src="https://raw.githubusercontent.com/angelabauer/100-days-gifs/main/1.1.%20print.gif">
+</picture>
+
 ## Test Your Code
 
 Check your code is doing what it is supposed to. When you're happy with your code, click submit to check your solution.
