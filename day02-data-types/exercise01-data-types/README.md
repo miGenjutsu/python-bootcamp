@@ -1,4 +1,4 @@
-`Exercise 1.1 - Data Types: README`
+`Exercise 2.1 - Data Types: README`
 
 `./day02-data-types/exercise01-data-types/.`
 
@@ -18,6 +18,11 @@ Write a program that adds the digits in a 2 digit number. e.g. if the input was 
 3 + 9 = 12
 12
 ```
+e.g. When you hit run, this is what should happen:
+
+<picture>
+  <img alt="Shows giphy of example input/output" src="https://cdn.fs.teachablecdn.com/iyJTPDDRRJCB1gmdVQMS">
+</picture>
 
 ## Hint
 
