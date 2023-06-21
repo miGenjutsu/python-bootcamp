@@ -23,6 +23,12 @@ Angela
 6
 ```
 
+e.g. When you hit run, this is what should happen:
+
+<picture>
+<img alt="Shows giphy of example input/output" src="https://cdn.fs.teachablecdn.com/opevxYZSTM2ZHjbAX3XV">
+</picture>
+
 ## Hint
 
 - You can put functions inside other functions.

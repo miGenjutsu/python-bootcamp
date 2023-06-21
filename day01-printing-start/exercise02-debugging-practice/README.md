@@ -18,6 +18,12 @@ e.g. print("Hello " + "world")
 New lines can be created with a backslash and n.
 ```
 
+e.g. When you hit run, there should be no errors and this is what should happen:
+
+<picture>
+<img alt="Shows giphy of example input/output" src="https://cdn.fs.teachablecdn.com/BVP20Z2T1Gb4Pi6rOQah">
+</picture>
+
 ## Test Your Code
 
 Check your code is doing what it is supposed to. When you're happy with your code, click submit to check your solution.

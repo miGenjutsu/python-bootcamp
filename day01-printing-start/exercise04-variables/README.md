@@ -20,6 +20,12 @@ a: 5
 b: 3
 ```
 
+e.g. When you hit run, this is what should happen:
+
+<picture>
+<img alt="Shows giphy of example input/output" src="https://cdn.fs.teachablecdn.com/tgdNl0iSqK6RpPyYZh9d">
+</picture>
+
 ## Hint
 
 -    You should not have to type any numbers in your code.
