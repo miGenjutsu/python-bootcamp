@@ -1,6 +1,6 @@
 `day02-project: README`
 
-`./day01-data-types/day02-project`
+`./day02-data-types/day02-project`
 
 ## Tip Calculator
 
