@@ -6,10 +6,6 @@ name2 = input("What is their name? \n")
 
 #Write your code below this line 👇
 
-
-# name1_lower = name1.upper()
-# name2_lower = name2.upper()
-
 combine_names = name1 + name2
 lower_case_string = combine_names.lower()
 
