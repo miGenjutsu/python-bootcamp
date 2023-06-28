@@ -1,3 +1,7 @@
+`day03-project: README`
+
+`./day03-treasure-island/day03-project`
+
 ## Treasure Island
 
 # Instructions
