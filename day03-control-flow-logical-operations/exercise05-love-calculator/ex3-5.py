@@ -13,55 +13,71 @@ score = 0
 name1_lower = name1.upper()
 name2_lower = name2.upper()
 
+# combine_name = name1 + name2
+
+# total_count = (
+#     combine_name.count('T')+
+#     combine_name.count('R')+
+#     combine_name.count('U')+
+#     combine_name.count('E')+
+#     combine_name.count('L')+
+#     combine_name.count('O')+
+#     combine_name.count('V')+
+#     combine_name.count('E')
+# )
+
 total_count_1 = (
     name1_lower.count('T')+
     name1_lower.count('R')+
     name1_lower.count('U')+
-    name1_lower.count('E')
-    # name1_lower.count('L')+
-    # name1_lower.count('O')+
-    # name1_lower.count('V')+
-    # name1_lower.count('E')
-)
-
-total_count_1 = (
-    # name1_lower.count('T')+
-    # name1_lower.count('R')+
-    # name1_lower.count('U')+
-    # name1_lower.count('E')
+    name1_lower.count('E')+
     name1_lower.count('L')+
     name1_lower.count('O')+
     name1_lower.count('V')+
     name1_lower.count('E')
 )
 
+
+
+
+# total_count_1 = (
+#     name1_lower.count('T')+
+#     name1_lower.count('R')+
+#     name1_lower.count('U')+
+#     name1_lower.count('E')+
+#     name1_lower.count('L')+
+#     name1_lower.count('O')+
+#     name1_lower.count('V')+
+#     name1_lower.count('E')
+# )
+
 # result_1 = print(str(total_count_1))
 # result_1 = total_count_1
-result_1 = print(str(total_count_1))
+# result_1 = print(str(total_count_1))
 
 total_count_2 = (
     name2_lower.count('T')+
     name2_lower.count('R')+
     name2_lower.count('U')+
-    name2_lower.count('E')
-    # name2_lower.count('L')+
-    # name2_lower.count('O')+
-    # name2_lower.count('V')+
-    # name2_lower.count('E')
-)
-
-total_count_2 = (
-    # name2_lower.count('T')+
-    # name2_lower.count('R')+
-    # name2_lower.count('U')+
-    # name2_lower.count('E')+
+    name2_lower.count('E')+
     name2_lower.count('L')+
     name2_lower.count('O')+
     name2_lower.count('V')+
     name2_lower.count('E')
 )
 
-result_2 =  print(str(total_count_2))
+# total_count_2 = (
+#     # name2_lower.count('T')+
+#     # name2_lower.count('R')+
+#     # name2_lower.count('U')+
+#     # name2_lower.count('E')+
+#     name2_lower.count('L')+
+#     name2_lower.count('O')+
+#     name2_lower.count('V')+
+#     name2_lower.count('E')
+# )
+
+# result_2 =  print(str(total_count_2))
 
 
 print(f"The number of letters for NAME 1 is: {total_count_1}")
