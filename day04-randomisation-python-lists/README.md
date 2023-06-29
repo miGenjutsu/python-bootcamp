@@ -16,6 +16,8 @@
     - append():- will add a single item to the end of a preset list
     - extend():- adding a bunch more to the preset list
     - there are tons more example and can be found using [Python Docs- Data Strcutures](https://docs.python.org/3/tutorial/datastructures.html)
+- `IndexError` list index out of range: if your list() contains only (let's say) 8 items in the list. when you attempt to retrieve an item out of that preset list and you apply the desired list number to 9 (instead of 8) this would throw that exception.
+- `Nested List`: list nesting 
 
 
 
