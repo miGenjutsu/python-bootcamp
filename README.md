@@ -77,9 +77,9 @@ By the end of this course, you will be fluently programming in Python and you'll
 
 ### Python Virtual Enviroment
 ```sh
-pip3 install virtualenv
-virtual <nameOfEnviroment>
-source env/bin/activate
+pyenv virtualenv <python_version> <environment_name>
+pyenv activate <environment_name>
+pyenv deactivate
 ```
 
 [Coding Rooms](https://app.codingrooms.com/management/courses)
