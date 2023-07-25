@@ -58,4 +58,47 @@ e.g. When you hit run, this is what should happen:
 
 Check your code is doing what it is supposed to. When you're happy with your code, click submit to check your solution.
 
+## Documentation
+
+recieved error:
+```bash
+    Operator "+=" not supported for types "Unknown | Literal[0]" and "str"
+    Operator "+" not supported for types "Literal[0]" and "str"Pylance
+```
+
+from this block:
+```bash
+    total_height = 0
+
+    for height in student_heights:
+        total_height += height
+    print(total_height)
+```
+
+Explination:
+
+    The error messages you received indicate that there is an issue with the data type of the variables used in the calculation. The variable total_height is initialized to 0, and it seems that the height values in the student_heights list are not numeric (likely strings) rather than integers or floats, which leads to the error when trying to add them together using the += operator.
+
+    To fix this issue, make sure that the student_heights list contains numeric values (integers or floats). If you are getting the heights as user input, ensure that you are casting the input to the appropriate numeric type (int or float) before adding them to the list.
+
+`Here's an example to demonstrate how to use numeric values:`
+
+```
+    student_heights = input("Input a list of student heights ").split()
+
+    # Convert the elements to integers with error handling
+    for n in range(len(student_heights)):
+        try:
+            student_heights[n] = int(student_heights[n])
+        except ValueError:
+            print("Invalid input. Please enter valid integers for student heights.")
+    # Handle the error (e.g., skip the current value, ask for input again, etc.)
+
+    # Now, you can proceed to calculate the sum of the student heights
+    total_height = 0
+    for height in student_heights:
+        total_height += height
+    print("Total height:", total_height)
+```
+
 [Solution](https://repl.it/@appbrewery/day-5-1-solution)
