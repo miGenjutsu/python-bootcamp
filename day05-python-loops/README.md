@@ -10,6 +10,8 @@
 ## Learning Path
 - basic python:
   - For Loop: `for` item `in` list_of_items: `do something to each item`
+  - For Loop (RANGE): `for` number `in range`(a, b):
+print(`number`)
 
 
 ## Structure
