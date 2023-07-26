@@ -1,0 +1,4 @@
+import project05_module
+
+project05_module.password_generate_easy_version()
+project05_module.password_generate_hard_version()
