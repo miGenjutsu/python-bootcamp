@@ -1,4 +1,4 @@
-# 🚀 Exercise 5.3 - Adding Even Numbers: README
+# 🚀 Exercise 5.4 - FizzBuzz: README
 
 `./day05-python-loops/exercise04-fizz-buzz/.`
 
