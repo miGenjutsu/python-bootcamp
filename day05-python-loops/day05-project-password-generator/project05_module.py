@@ -17,7 +17,13 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 
 def password_generate_easy_version():
+    password = ''.join(random.choice(letters+numbers+symbols))
+    for password in range(letters+numbers+symbols):
+        return password
+    print(f"Generated password:", {password})
     
+password = password_generate_easy_version()
+# print(f"Generated password:", {password})
     
     
     
